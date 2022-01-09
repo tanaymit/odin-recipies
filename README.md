@@ -1,2 +1,2 @@
 # odin-recipies
-first odin proj
+first odin proj!
