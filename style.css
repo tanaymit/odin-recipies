@@ -6,3 +6,18 @@ body {
 a {
     color:cadetblue;
 }
+p {
+    background-color: blanchedalmond;
+    padding: 30px;
+    margin: 50px;
+    border: 5px solid orange;
+    display: flex;
+}
+h3 {
+    background-color: palegreen;
+    height: 50px;
+    width: 350px;
+    margin: 30px;
+    border: 8px solid blue;
+    box-sizing: border-box;
+}
