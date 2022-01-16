@@ -2,6 +2,7 @@ body {
     color: black;
     background-color: blueviolet;
     font-family: 'Be Vietnam Pro', sans-serif;
+    display: flex;
 }
 a {
     color:cadetblue;
